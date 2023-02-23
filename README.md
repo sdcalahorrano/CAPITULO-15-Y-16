@@ -273,18 +273,27 @@ SECCIÓN 16–7 Potencia en circuitos RL
 
 37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
 
+![image](https://user-images.githubusercontent.com/105056762/220832860-de4acc39-5955-4220-bfe3-1f53f76ea214.png)
+
 39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/105056762/220832892-5e6556ca-816f-4efd-9845-55a7959b049d.png)
 
 SECCIÓN 16–8 Aplicaciones básicas
 
 41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
 
+![image](https://user-images.githubusercontent.com/105056762/220832907-21bc7aa1-5d91-420a-8bdc-a5abd5ce0d28.png)
+
 43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+
+![image](https://user-images.githubusercontent.com/105056762/220832949-2b8d5d16-f647-4d96-8950-c8d9b41c6746.png)
 
 SECCIÓN 16–9 Localización de fallas
 
 45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
 
+![image](https://user-images.githubusercontent.com/105056762/220833036-e349b814-a247-41b1-a399-cc2252f2edc8.png)
 
 # 4. VIDEO
 
